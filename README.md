@@ -1,6 +1,7 @@
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; justify-content: flex-start;">
   <h1>HI I'm Ikhsan Adrians</H1> 
+  <h1>Software Engineering Student At Connexsoft</h1>
  </div>
 
 
