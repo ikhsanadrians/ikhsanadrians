@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ikhsan Adrians</h1>
 <h3 align="center">A Software Engineering Student at Connexsoft ( SMKN 10 Jakarta )</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: aikhsan032@gmail.com</h3>
 <p align="left">
 </p>
 
