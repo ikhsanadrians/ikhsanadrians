@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ikhsan Adrians</h1>
-<h3 align="center">A Software Engineering StudentS at Connexsoft ( SMKN 10 Jakarta )</h3>
+<h3 align="center">A Software Engineering Student at Connexsoft ( SMKN 10 Jakarta )</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ikhsanadrians&label=Profile%20views&color=0e75b6&style=flat" alt="ikhsanadrians" /> </p>
 
