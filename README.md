@@ -1,5 +1,4 @@
-<p align="center">
-![](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)</p>
+
 <h1 align="center">Hi 👋, I'm Ikhsan Adrians</h1>
 <h3 align="center">A Software Engineering Student at Connexsoft</h3>
 
