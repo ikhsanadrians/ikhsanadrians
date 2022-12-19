@@ -19,5 +19,4 @@
 <div style="display: flex; flex-direction: column; align-items: flex-start; justify-content: center;">
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ikhsanadrians&layout=compact)
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ikhsanadrians&layout=compact&langs_count=8&theme=algolia"/>
 </div>
