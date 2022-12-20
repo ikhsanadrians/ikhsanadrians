@@ -4,10 +4,6 @@
 
 
 
-<p align="left">
-</p>
-
-
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikhsanadrians&theme=chartreuse-dark"/>
 </p>
