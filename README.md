@@ -4,9 +4,9 @@
 
 
 
-<h1 align="center">
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikhsanadrians&theme=chartreuse-dark"/>
-</h1>
+</p>
   
   
 <h3 align="center">Languages and Tools:</h3>
