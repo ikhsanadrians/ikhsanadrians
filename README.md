@@ -18,6 +18,6 @@
 
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikhsanadrians&show_icons=true&locale=en&layout=compact" alt="ikhsanadrians" /></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhsanadrians&theme=github_dark&layout=compact&hide_border=true" />
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ikhsanadrians&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
 </div>
