@@ -25,7 +25,7 @@ Building scalable web applications with a strong focus on backend architecture, 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,ts,js,java,python"/>
+<img src="https://skillicons.dev/icons?i=php,ts,js,go,python"/>
 </p>
 
 ### Frontend
@@ -37,7 +37,7 @@ Building scalable web applications with a strong focus on backend architecture, 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,nodejs"/>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,python,go"/>
 </p>
 
 ### Database
